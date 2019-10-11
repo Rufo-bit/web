@@ -1,3 +1,14 @@
-p{
-    color: blue;
+#p01 /*Se tomata el id p01 de p de inicio.html*/
+{
+    color: red; /*Se cambia el color de letra*/
+    font-family: 'Times New Roman', Times, serif; /*Se cambio el tipo de fuente*/
+    font-size: 100%; /*Se cambia el tamaño de letra*/
+    border: 1px solid powderblue; /*Se coloca un borde en el texto escrito*/
+    padding: 30px; /*La propiedad de relleno CSS define un relleno (espacio) entre el texto y el borde:*/
+    margin: 50px;
+}
+
+p 
+{
+    color: black;
 }
