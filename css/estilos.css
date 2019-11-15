@@ -4,6 +4,17 @@ nav {
 
 footer {
     display: block;
+    background-color: brown;
+}
+
+div {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+.pDiv {
+    color: white;
 }
 
 #p01
